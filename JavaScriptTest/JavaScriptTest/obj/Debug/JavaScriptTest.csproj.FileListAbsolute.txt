@@ -1,0 +1,6 @@
+C:\Users\orchardr\Documents\Visual Studio 2013\Projects\JavaScriptTest\JavaScriptTest\bin\JavaScriptTest.dll.config
+C:\Users\orchardr\Documents\Visual Studio 2013\Projects\JavaScriptTest\JavaScriptTest\bin\JavaScriptTest.dll
+C:\Users\orchardr\Documents\Visual Studio 2013\Projects\JavaScriptTest\JavaScriptTest\bin\JavaScriptTest.pdb
+C:\Users\orchardr\Documents\Visual Studio 2013\Projects\JavaScriptTest\JavaScriptTest\obj\Debug\JavaScriptTest.csprojResolveAssemblyReference.cache
+C:\Users\orchardr\Documents\Visual Studio 2013\Projects\JavaScriptTest\JavaScriptTest\obj\Debug\JavaScriptTest.dll
+C:\Users\orchardr\Documents\Visual Studio 2013\Projects\JavaScriptTest\JavaScriptTest\obj\Debug\JavaScriptTest.pdb
