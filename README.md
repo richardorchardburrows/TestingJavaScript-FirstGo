@@ -9,6 +9,8 @@ You are now the proud manager at the new Ben Smith’s Toys Superstore!
 
 And you have the following data.
 
+
+
 var products = [
 {
 id: 'transformer',
